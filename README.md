@@ -7,6 +7,9 @@ Here are my solutions to the master's entrance exam of The University of Tokyo C
 If you find **errors** or problems with any of the solutions please submit a pull request with the changes.
 Also, if you have **other solutions** to prior exams or future exams please let me know if it would be possible to __link your repository___ here.
 
+### Note:
+Exams include `written_exam.md` file which includes solutions for the Creative Informatics written exam in that year. As well as `q1,q2...` solutions for the programming section.
+
 ## Known Issues
 1. 2012:
     - No written exam solution.
