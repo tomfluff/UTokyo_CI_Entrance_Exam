@@ -1,0 +1,8 @@
+SET x 0
+SET out x
+CAL 2 out
+PRN x out
+ADD 1 in
+CMP in 5
+RET in 0
+PRN in 0

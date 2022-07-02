@@ -1,0 +1,38 @@
+a = b + 3 - d
+a = b + 4 - d
+b = a - 1 - d
+c = a + b
+d = a + c
+f + u = poop
+
+name = "tom"
+name = "tom 2020"
+
+when (time = 1):
+{
+    return my name is FUFU"
+}
+
+a = b + 3 - d
+a = b + 4 - d
+b = a - 1 - d
+c = a + b
+abc
+a = b + 4 - d
+b = a - 1 - d
+c = a + b
+d = a + c
+f + u = poop
+
+d = a + c
+f + u = poop
+
+name = "tom"
+name = "tom 2020"
+
+a = b + 3 - d
+a = b + 4 - d
+b = a - 1 - d
+c = a + b
+d = a + c
+f + u = poop

@@ -1,0 +1,8 @@
+SET x 1
+SET i 0
+SUB 1 0
+ADD x x
+ADD 1 i
+CMP i 4
+BAK 0 0
+PRN x i

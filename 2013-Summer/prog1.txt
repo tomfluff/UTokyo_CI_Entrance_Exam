@@ -1,0 +1,6 @@
+SET x 1
+SET y 2
+ADD x y
+CMP y 3
+PRN x y
+JMP -3 0
