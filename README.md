@@ -1,4 +1,4 @@
-# Tokyo University Master's Entrance Exam
+# Tokyo University Creative Informatice (CI) Master's Entrance Exam
 Here are my solutions to the master's entrance exam of The University of Tokyo Creative Informatics department. From 2012-2020 and partial solution from memory for Winter 2022 examination.
 
 - [Exams 2006-2015](https://web.archive.org/web/20150810163137/http://www.i.u-tokyo.ac.jp:80/edu/course/ci/admission.shtml)
@@ -8,7 +8,9 @@ If you find **errors** or problems with any of the solutions please submit a pul
 Also, if you have **other solutions** to prior exams or future exams please let me know if it would be possible to __link your repository___ here.
 
 ### Note:
-Exams include `written_exam.md` file which includes solutions for the Creative Informatics written exam in that year. As well as `q1,q2...` solutions for the programming section.
+- Exams include `written_exam.md` file which includes solutions for the Creative Informatics written exam in that year. As well as `q1,q2...` solutions for the programming section.
+- Recommended to view written solutions using an external Markdown viewer (e.g., VSCode), with math extentions installed.
+- If you find any mistakes, or solve additional exams, please create a **pull request**.
 
 ## Known Issues
 1. 2012:
